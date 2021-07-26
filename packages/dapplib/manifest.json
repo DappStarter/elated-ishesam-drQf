@@ -1,0 +1,29 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "access_control",
+            "name": "core-administrator_role",
+            "parameters": {}
+        },
+        {
+            "category": "asset_value_tracking",
+            "name": "core-token",
+            "parameters": {
+                "name": "Chirag Badhe",
+                "symbol": "CSB",
+                "supply": "100000000000",
+                "decimals": "18"
+            }
+        },
+        {
+            "category": "collection",
+            "name": "core-entity",
+            "parameters": {}
+        }
+    ],
+    "blockchain": "polygon",
+    "language": "solidity",
+    "framework": "react"
+}
